@@ -1,4 +1,14 @@
 /* Add CSS Styling */
-.fontsize {
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.one.two {
     font-size: 28px;
+    font-family: "Heltivca" "Times New Roman", sans-serif;
 }
