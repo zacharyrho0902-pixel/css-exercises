@@ -9,6 +9,12 @@ p {
     font-size: 36px;
 }
 
-#Dejafont2 {
-    font: "DejaVu Sans", sans-serif;
+.redbackground.newfont {
+    font-size: 24px;
+}
+
+#warlock {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
 }
