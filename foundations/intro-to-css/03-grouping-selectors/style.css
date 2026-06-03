@@ -8,7 +8,8 @@
     background-color: yellow;
 }
 
-.one.two {
+.one,
+.two {
     font-size: 28px;
     font-family: "Heltivca" "Times New Roman", sans-serif;
 }
